@@ -65,3 +65,17 @@ class Calc1 {
 // Горячие клавиши:
 // ctrl + k - открывает окно commit.
 // ctrl + Shift + k - открывает окно push.
+
+//1. Создаем репозиторий на GitHub и создали(скопировали) ссылку
+//
+//2. VSC -> eneble version contrl -> Git -> OK
+//
+//3. VSC -> Git -> Remotes -> ССЫЛКА -> OK
+//
+//4. Выбрать файл -> правой кнопкой мыши Git add -> выбор файла -> Git commit
+//
+//5. Написали комент -> COMMIT
+//
+//6. VSC -> Git -> Push
+//
+//7. ВСЕ!
